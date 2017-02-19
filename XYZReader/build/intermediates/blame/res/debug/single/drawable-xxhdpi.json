@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png",
+        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share_black_24dp.png",
+        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share_black_24dp.png"
+    }
+]
