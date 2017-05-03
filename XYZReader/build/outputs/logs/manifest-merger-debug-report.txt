@@ -31,20 +31,20 @@ ADDED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml:9:
 		ADDED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml:9:22-76
 application
 ADDED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
-MERGED from [com.android.support:support-v13:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:palette-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.1\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:design:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Ashish\.android\build-cache\c405d861934d2fe0153dfd14e63fdb9d43da5938\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Ashish\.android\build-cache\b363ca1fe2d944064a07148f406f88b4a041aad2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ashish\.android\build-cache\54dfaa2abb7a5dfeeeafa739565a064468409509\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ashish\.android\build-cache\fb2401284775e550a8d4266e2b7fdc39e1a76f69\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ashish\.android\build-cache\614366c1e7b686e43126bdcb66d20fdbc3623e8a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ashish\.android\build-cache\922e6ac5274679ce125cfd630d5dc9ce10197697\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ashish\.android\build-cache\1df95a61a78d79f3fa7d74e11356107578bade9e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ashish\.android\build-cache\621d932f30312f6635e2d9d0edb32140b1b67066\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ashish\.android\build-cache\250e9975e1f1ed35955c807247e61d69795fe58d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ashish\.android\build-cache\931e1b7477d5facf848d360b0d932e3d35b1970c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ashish\.android\build-cache\a669aa6bc6b2b2777bde2847c9ad7fdd86d1be09\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ashish\.android\build-cache\1e518646d8baa1bf6a65835933d3653ad2969002\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ashish\.android\build-cache\93021218434f19629de4128dcf867e0592c96d02\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Ashish\.android\build-cache\183ba0b8c9f897bf653e865f51f7f026d1e7a070\output\AndroidManifest.xml:26:5-20
 	android:label
 		ADDED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -111,27 +111,47 @@ ADDED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml:42
 		ADDED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml:42:19-53
 uses-sdk
 INJECTED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v13:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:palette-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.jakewharton:butterknife:8.4.0] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Ashish\.android\build-cache\c405d861934d2fe0153dfd14e63fdb9d43da5938\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Ashish\.android\build-cache\b363ca1fe2d944064a07148f406f88b4a041aad2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ashish\.android\build-cache\54dfaa2abb7a5dfeeeafa739565a064468409509\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ashish\.android\build-cache\fb2401284775e550a8d4266e2b7fdc39e1a76f69\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ashish\.android\build-cache\614366c1e7b686e43126bdcb66d20fdbc3623e8a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ashish\.android\build-cache\922e6ac5274679ce125cfd630d5dc9ce10197697\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Ashish\.android\build-cache\5fa433a8e1cfc14bf5caf2652683b304e64a8146\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ashish\.android\build-cache\1df95a61a78d79f3fa7d74e11356107578bade9e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ashish\.android\build-cache\621d932f30312f6635e2d9d0edb32140b1b67066\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ashish\.android\build-cache\250e9975e1f1ed35955c807247e61d69795fe58d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ashish\.android\build-cache\931e1b7477d5facf848d360b0d932e3d35b1970c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ashish\.android\build-cache\a669aa6bc6b2b2777bde2847c9ad7fdd86d1be09\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ashish\.android\build-cache\1e518646d8baa1bf6a65835933d3653ad2969002\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ashish\.android\build-cache\93021218434f19629de4128dcf867e0592c96d02\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Ashish\.android\build-cache\183ba0b8c9f897bf653e865f51f7f026d1e7a070\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Ashish\.android\build-cache\d74a1e3cd2a210dcb452257b28d806b60b1a9916\output\AndroidManifest.xml:5:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.0.1] F:\Exercise Files\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Ashish\.android\build-cache\c405d861934d2fe0153dfd14e63fdb9d43da5938\output\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
 		INJECTED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml
 		INJECTED from F:\Exercise Files\xyzreader\XYZReader\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Ashish\.android\build-cache\c405d861934d2fe0153dfd14e63fdb9d43da5938\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Ashish\.android\build-cache\b363ca1fe2d944064a07148f406f88b4a041aad2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Ashish\.android\build-cache\54dfaa2abb7a5dfeeeafa739565a064468409509\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Ashish\.android\build-cache\fb2401284775e550a8d4266e2b7fdc39e1a76f69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Ashish\.android\build-cache\614366c1e7b686e43126bdcb66d20fdbc3623e8a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Ashish\.android\build-cache\922e6ac5274679ce125cfd630d5dc9ce10197697\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Ashish\.android\build-cache\5fa433a8e1cfc14bf5caf2652683b304e64a8146\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Ashish\.android\build-cache\1df95a61a78d79f3fa7d74e11356107578bade9e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Ashish\.android\build-cache\621d932f30312f6635e2d9d0edb32140b1b67066\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Ashish\.android\build-cache\250e9975e1f1ed35955c807247e61d69795fe58d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Ashish\.android\build-cache\931e1b7477d5facf848d360b0d932e3d35b1970c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Ashish\.android\build-cache\a669aa6bc6b2b2777bde2847c9ad7fdd86d1be09\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Ashish\.android\build-cache\1e518646d8baa1bf6a65835933d3653ad2969002\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Ashish\.android\build-cache\93021218434f19629de4128dcf867e0592c96d02\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Ashish\.android\build-cache\183ba0b8c9f897bf653e865f51f7f026d1e7a070\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Ashish\.android\build-cache\c405d861934d2fe0153dfd14e63fdb9d43da5938\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Ashish\.android\build-cache\c405d861934d2fe0153dfd14e63fdb9d43da5938\output\AndroidManifest.xml:26:9-47

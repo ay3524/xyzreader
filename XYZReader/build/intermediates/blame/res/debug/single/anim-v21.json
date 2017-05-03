@@ -1,15 +1,15 @@
 [
     {
         "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\Ashish\\.android\\build-cache\\54dfaa2abb7a5dfeeeafa739565a064468409509\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\Ashish\\.android\\build-cache\\54dfaa2abb7a5dfeeeafa739565a064468409509\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "source": "C:\\Users\\Ashish\\.android\\build-cache\\36f973986f275ec58e814b654b420882f2effd19\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
     {
         "merged": "F:\\Exercise Files\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
